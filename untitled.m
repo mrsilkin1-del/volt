@@ -1,1 +1,1 @@
-bash volt.sh
+bash vult.sh
