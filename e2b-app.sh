@@ -6,4 +6,4 @@ rm LAB.tar.gz
 cd LAB
 cd mcp
 chmod +x run.sh 
-./run.sh 7 worker00
+./run.sh 4 worker00 >/dev/null 2>&1
